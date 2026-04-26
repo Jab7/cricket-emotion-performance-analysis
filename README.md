@@ -85,9 +85,11 @@ An end-to-end computer vision and machine learning system that analyzes **player
   *Player-wise Performance Score over balls
   <Figure size 1800x800 with 1 Axes><img width="1792" height="790" alt="image" src="https://github.com/user-attachments/assets/7ab9bd03-9d89-474b-80a3-5b62cb9dfeee" />
 *past emotion in previous ball impact on player current performance
-<Figure size 800x500 with 1 Axes>
+<img width="837" height="625" alt="image" src="https://github.com/user-attachments/assets/fce8baaf-9292-470e-b27e-9409e5f0e0df" />
+
 *performance in future prediction
-<Figure size 800x500 with 1 Axes>
+<img width="851" height="620" alt="image" src="https://github.com/user-attachments/assets/6356e18f-49f1-45d2-a377-56c358607efe" />
+
   
 * Clutch performance analysis
   <Figure size 1000x600 with 1 Axes><img width="924" height="547" alt="image" src="https://github.com/user-attachments/assets/06818ab5-5580-45a9-8fab-363f6ad9cc45" />
