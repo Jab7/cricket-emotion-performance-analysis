@@ -1,4 +1,4 @@
-<img width="1792" height="790" alt="image" src="https://github.com/user-attachments/assets/b30a4c98-aaed-4ff5-8852-11a5d9cd5ab9" /># 🏏 Cricket Emotion Detection & Performance Intelligence System
+🏏 **Cricket Emotion Detection & Performance Intelligence System**
 
 An end-to-end computer vision and machine learning system that analyzes **player emotions from cricket broadcast videos** and correlates them with **match performance events**.
 
